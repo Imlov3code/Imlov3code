@@ -1,25 +1,25 @@
 # 👋 Hei, jeg heter Li!
 
-Jeg er en engasjert utvikler med bakgrunn innen fullstack-utvikling (C#, ASP.NET, JavaScript), og brenner for brukervennlige og skalerbare løsninger.
+Jeg er en engasjert utvikler med erfaring innen fullstack-utvikling (C#, ASP.NET, JavaScript) og en sterk interesse for brukervennlige og skalerbare løsninger.
 
-## 🎯 Mål
-- ✅ Fullføre fagskole og oppnå formell kompetanse
-- 💻 Jobbe profesjonelt med utvikling, spesielt innen web og mobil
-- 🚀 Bli uavhengig av NAV og få en varig IT-jobb
+## 🎯 Mine mål
+- 🎓 Videreutvikle min kompetanse gjennom utdanning og praksis
+- 💻 Jobbe profesjonelt med utvikling, særlig innen web og mobil
+- 🚀 Etablere meg i arbeidslivet og på sikt bli helt selvstendig
 
 ## 💡 Teknologier jeg bruker
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,dotnet,cs,androidstudio,vscode,github,git" />
 </p>
 
-## 📌 Prosjekter
-- [RessursLearn iOS App](#) *(undervisningsplattform med PDF-leser og innlevering)*
-- [GameWebsite (ASP.NET)](#)
-- [Android ESP kommunikasjonsmodul](#)
+## 📌 Utvalgte prosjekter
+- [RessursLearn iOS-app](#) – undervisningsplattform med PDF-lesing og innlevering
+- [GameWebsite (ASP.NET)](#) – websystem med betalingsløsning
 
-## 🧠 Om meg
-> Jeg tror på læring gjennom praksis. Har jobbet med både native Android-hacking, .NET websystemer, og React Native. Alltid nysgjerrig på hvordan ting fungerer – både på frontend og kernel-nivå 🙃
+## 🧠 Litt om meg
+> Jeg tror på læring gjennom praksis, og har jobbet med både native Android-miljøer, .NET-baserte websystemer og React Native. Jeg er nysgjerrig av natur, og liker å forstå hvordan ting fungerer – både på overflaten og på kernel-nivå 🙃
 
 ---
 
-📬 **Kontakt meg gjerne for samarbeid eller jobbmuligheter!**
+📬 **Åpen for samarbeid, praksisplass eller jobbmuligheter innen IT.**  
+Takk for at du tok deg tid til å se på profilen min!
