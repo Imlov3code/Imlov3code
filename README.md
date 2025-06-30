@@ -1,25 +1,27 @@
 # 👋 Hei, jeg heter Li!
 
-Jeg er en engasjert utvikler med erfaring innen fullstack-utvikling (C#, ASP.NET, JavaScript) og en sterk interesse for brukervennlige og skalerbare løsninger.
+Jeg er en nysgjerrig og dedikert utvikler med bakgrunn innen fullstack – fra backend med C# og ASP.NET til moderne frontend med JavaScript og React. 
+Jeg liker å bygge ting som **fungerer godt og ser bra ut** – enten det er en webapp, mobilapp eller et utviklingsverktøy.
 
-## 🎯 Mine mål
-- 🎓 Videreutvikle min kompetanse gjennom utdanning og praksis
-- 💻 Jobbe profesjonelt med utvikling, særlig innen web og mobil
-- 🚀 Etablere meg i arbeidslivet og på sikt bli helt selvstendig
+- 🎯 Hva jeg jobber mot
+🎓 Videreutvikle meg faglig gjennom både utdanning og praktiske erfaringer
+💻 Bidra i reelle prosjekter – særlig innen web, mobil og tekniske verktøy
+🚀 Bygge en stabil karriere innen IT og bli selvstendig så snart som mulig
 
-## 💡 Teknologier jeg bruker
+## 💡 Teknologier og verktøy jeg trives med
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,dotnet,cs,androidstudio,vscode,github,git" />
 </p>
 
-## 📌 Utvalgte prosjekter
-- [RessursLearn iOS-app](#) – undervisningsplattform med PDF-lesing og innlevering
-- [GameWebsite (ASP.NET)](#) – websystem med betalingsløsning
+## 📌 Noen av mine prosjekter
+- **[RessursLearn iOS-app](#)** – en læringsplattform for studenter med PDF-visning og oppgaveinnlevering
+- **[GameWebsite (ASP.NET)](#)** – en webapplikasjon med betalingssystem og brukerpålogging
 
 ## 🧠 Litt om meg
-> Jeg tror på læring gjennom praksis, og har jobbet med både native Android-miljøer, .NET-baserte websystemer og React Native. Jeg er nysgjerrig av natur, og liker å forstå hvordan ting fungerer – både på overflaten og på kernel-nivå 🙃
+Programmering startet som en hobby for meg, men har utviklet seg til en lidenskap. Jeg har jobbet med alt fra små nettsider til større applikasjoner gjennom både skole og egne prosjekter.
+Jeg liker utfordringer som får meg til å grave dypere – og jeg trives best når jeg skjønner *hvorfor* noe fungerer, ikke bare *hvordan*.
 
 ---
 
-📬 **Åpen for samarbeid, praksisplass eller jobbmuligheter innen IT.**  
-Takk for at du tok deg tid til å se på profilen min!
+📬 **Er du en arbeidsgiver, mentor eller noen som jobber med teknologi?**  
+Jeg er alltid åpen for samarbeid, praksis eller en god faglig samtale.  
