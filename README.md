@@ -4,6 +4,7 @@ Jeg er en nysgjerrig og dedikert utvikler med bakgrunn innen fullstack – fra b
 Jeg liker å bygge ting som **fungerer godt og ser bra ut** – enten det er en webapp, mobilapp eller et utviklingsverktøy.
 
 - 🎯 Hva jeg jobber mot
+  
 🎓 Videreutvikle meg faglig gjennom både utdanning og praktiske erfaringer
 
 💻 Bidra i reelle prosjekter – særlig innen web, mobil og tekniske verktøy
