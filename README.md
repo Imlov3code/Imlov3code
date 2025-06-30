@@ -5,7 +5,9 @@ Jeg liker å bygge ting som **fungerer godt og ser bra ut** – enten det er en 
 
 - 🎯 Hva jeg jobber mot
 🎓 Videreutvikle meg faglig gjennom både utdanning og praktiske erfaringer
+
 💻 Bidra i reelle prosjekter – særlig innen web, mobil og tekniske verktøy
+
 🚀 Bygge en stabil karriere innen IT og bli selvstendig så snart som mulig
 
 ## 💡 Teknologier og verktøy jeg trives med
